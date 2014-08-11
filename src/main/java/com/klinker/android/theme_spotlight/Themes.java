@@ -74,4 +74,41 @@ public class Themes {
             "https://lh3.googleusercontent.com/-UHAzcPfsCXQ/Ur-Ve6VkZ0I/AAAAAAAAQbw/7OIWCino5pk/w346-h615/Screenshot_2013-12-28-21-20-26.png",
             "https://github.com/klinker41/evolve_theme"
     );
+
+    public static final FeaturedTheme JM_EVOLVE_COLOR_PACK = new FeaturedTheme(
+            "Evolve Theme Pack",
+            null,
+            "com.merritt.evolve.theme.pack",
+            "https://www.dropbox.com/s/ctbt7npqn0u61en/greencon.png",
+            "https://www.dropbox.com/s/7g2vyfnyih2r68a/EvolveColorPack.apk",
+            "https://www.dropbox.com/s/j143vbqy72a0eq2/e-green.png",
+    );
+
+    public static final FeaturedTheme JM_EVOLVE_BLUE_COLOR_PACK = new FeaturedTheme(
+            "Evolve Blue Pack",
+            null,
+            "com.merritt.evolve.blue.theme.pack",
+            "https://www.dropbox.com/s/srzc26feahw2uui/redcon.png",
+            "https://www.dropbox.com/s/jgj7xcoegmrkn62/EvolveBlueColorPack.apk",
+            "https://www.dropbox.com/s/ape4iwh0bpxi6nm/c-blue.png",
+    );
+
+    public static final FeaturedTheme JM_EVOLVE_CLASSIC_BLUE_COLOR_PACK = new FeaturedTheme(
+            "Classic Blue Pack ",
+            null,
+            "com.merritt.evolve.classic.blue.theme.pack",
+            "https://www.dropbox.com/s/vloprquuwr36zvx/bluecon.png",
+            "https://www.dropbox.com/s/has4o6kyswwhgtf/EvolveClassicBlueColorPack.apk",
+            "https://www.dropbox.com/s/45w2erayhdjsn7z/c-red.png",
+    );
+
+    public static final FeaturedTheme JM_EVOLVE_IOS_COLOR_PACK = new FeaturedTheme(
+            "iOS Pack",
+            null,
+            "com.merritt.evolve.ios.theme.pack",
+            "https://www.dropbox.com/s/mzqe0qtfnzulzt9/blackcon.png",
+            "https://www.dropbox.com/s/k3gkjx12ujoblgj/EvolveiOSColorPack.apk",
+            "https://www.dropbox.com/s/9t9i408peu75aqt/i-blue.png",
+    );
+
 }
