@@ -59,7 +59,13 @@ public class Themers {
              null,
             "https://lh4.googleusercontent.com/-DO2R3EsKx3I/AAAAAAAAAAI/AAAAAAAADew/3edzsY4jaZ0/s120-c/photo.jpg",
             "Optimal Designs"
-            );
+             new FeaturedTheme[]{
+                    Themes.JM_EVOLVE_COLOR_PACK,
+                    Themes.JM_EVOLVE_BLUE_COLOR_PACK,
+                    Themes.JM_EVOLVE_CLASSIC_BLUE_COLOR_PACK,
+                    Themes.JM_EVOLVE_IOS_COLOR_PACK
+                    }
+    );
     
     private static final FeaturedThemer BORDEN_GRAPHICS = new FeaturedThemer(
             "BORDEN GRAPHICS",
